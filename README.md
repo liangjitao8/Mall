@@ -10,6 +10,6 @@
 前端：html+css+js+jQuery+BootStrap
 
 #快速部署   
-1.sql文件导入数据库
-2.将打包的资源图片放在D盘（路径修改的位置在web模块config包下的SourceConfiguration中）
-3.在application.properties中修改sql的端口号和redis的配置信息
+1.sql文件导入数据库   
+2.将打包的资源图片放在D盘（路径修改的位置在web模块config包下的SourceConfiguration中）   
+3.在application.properties中修改sql的端口号和redis的配置信息   
